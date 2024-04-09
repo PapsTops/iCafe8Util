@@ -37,6 +37,6 @@ catch (Exception)
 {
     Console.WriteLine("It's likely that your bar server is running, or perhaps this app is not running in an elevated mode (run as admin)");
     
-    Console.WriteLine("Please also check if your the file path of barserver is correct in your current setup");
+    Console.WriteLine("Please also check if the file path of barserver is correct in your current setup.");
 }
 
